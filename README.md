@@ -33,7 +33,7 @@ See [`docs/KiddieOps_SRS.docx`](docs/KiddieOps_SRS.docx) for the full Software R
 | ---------------- | ------------------------------------------------------------------ |
 | Frontend         | React, mobile-first responsive design                              |
 | Backend          | Node.js, Express                                                   |
-| Database         | PostgreSQL                                                         |
+| Database         | MySQL                                                         |
 | Auth             | JWT, bcrypt (password hashing)                                     |
 | AI Guardian      | Claude API (Anthropic)                                             |
 | Hosting (target) | TBD — see [`docs/architecture.md`](docs/architecture.md)           |
